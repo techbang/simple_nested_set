@@ -28,7 +28,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'sqlite3-ruby'
   s.add_development_dependency 'pg', '0.9.0'
-  s.add_development_dependency 'mysql2', '0.2.6'
+  s.add_development_dependency 'mysql2', '0.3.7'
 
   s.add_development_dependency 'database_cleaner', '0.6.0'
 end
