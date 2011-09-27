@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.rubyforge_project = '[none]'
 
-  s.add_dependency             'activerecord', '~> 3.0.3'
+  s.add_dependency             'activerecord', '~> 3.1.0'
   s.add_dependency             'gem_patching'
 
   s.add_development_dependency 'test_declarative'
